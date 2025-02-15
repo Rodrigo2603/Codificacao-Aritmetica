@@ -79,7 +79,7 @@ for i in range (1,6,1):
     acumulada.append(acumulada[i])
 acumulada = acumulada[:-1]
 
-with open("teste.txt", 'r', encoding='utf-8') as arquivo:
+with open(nome_do_arquivo, 'r', encoding='utf-8') as arquivo:
     # Ler o conteúdo do arquivo
     vetor_saida = []
     low = 0
