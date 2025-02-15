@@ -4,4 +4,4 @@ To compress a file (other than `teste.txt`) you need to:
 - Change the name of the file in `line 56`
 - Run `codificacao_aritmetica.py`
 
-The output is an array that contains the numbers of that file compressed with a integer arithmetic algorithm
+The output is an array that contains the numbers of that file compressed with an integer arithmetic algorithm
